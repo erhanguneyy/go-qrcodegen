@@ -8,7 +8,6 @@ import (
 
 func main() {
 	var filename, url string
-
 	fmt.Println("QR Code oluşturmak istediğiniz bağlantıyı girin:")
 	fmt.Scan(&url)
 	fmt.Println("QR Code kaydetmek istediğiniz ismi girin:")
